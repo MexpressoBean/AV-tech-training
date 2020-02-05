@@ -1,0 +1,415 @@
+body {
+  background-color: #222831;
+  color: #eeeeee;
+}
+
+p {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #eeeeee;
+}
+
+h1 {
+  font-family: 'Red Hat Text', sans-serif;
+}
+
+h2 {
+  font-family: 'Red Hat Text', sans-serif;
+}
+
+a:hover {
+  color: #eeeeee;
+}
+
+.navbar {
+  background-color: #393e46;
+}
+
+.navbar-brand {
+  color: #fd7014;
+  padding-left: 26px;
+  font-family: 'Red Hat Text', sans-serif;
+  font-size: 26px;
+}
+
+.nav-link {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 20px;
+  color: #fd7014;
+}
+
+.contact-prompt {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 30px;
+  color: #eeeeee;
+}
+
+.btn {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 20px;
+}
+
+.category-photos {
+  height: 100%;
+  width: 100%;
+}
+
+.footer-text {
+  color: #393e46;
+  text-align: center;
+  font-size: 110%;
+}
+
+.low-zone-header {
+  color: #fd7014;
+}
+
+.low-zone-description {
+  font-size: 110%;
+  color: #eeeeee;
+}
+
+.btn-custom {
+  border: 2px solid #fd7014;
+  background-color: #393e46;
+  color: #eeeeee;
+  padding: 6px 22px;
+  font-size: 120%;
+  cursor: pointer;
+}
+
+.btn-custom:hover {
+  background-color: #fd7014;
+  color: black;
+}
+
+.av-mat-outline {
+  background-color: #eeeeee;
+  height: 650px;
+  padding-top: 40px;
+  font-size: 180%;
+}
+
+.av-outline-header {
+  color: #393e46;
+  font-family: 'Red Hat Text', sans-serif;
+  text-align: center;
+}
+
+.av-outline-text {
+  color: #393e46;
+  font-family: 'Darker Grotesque', sans-serif;
+  text-align: center;
+}
+
+.network-mat-outline {
+  background-color: #393e46;
+  height: 720px;
+  padding-top: 40px;
+  font-size: 180%;
+}
+
+.network-outline-header {
+  color: #fd7014;
+  font-family: 'Red Hat Text', sans-serif;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.network-outline-text {
+  color: #fd7014;
+  font-family: 'Darker Grotesque', sans-serif;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.control-mat-outline {
+  background-color: #fd7014;
+  height: 720px;
+  padding-top: 40px;
+  font-size: 180%;
+}
+
+.control-outline-header {
+  color: black;
+  font-family: 'Red Hat Text', sans-serif;
+  text-align: center;
+}
+
+.control-outline-text {
+  color: black;
+  font-family: 'Darker Grotesque', sans-serif;
+  text-align: center;
+}
+
+.av-list {
+  font-family: 'Darker Grotesque', sans-serif;
+  background-color: #eeeeee;
+  height: 40px;
+  font-size: 75%;
+  text-align: center;
+  line-height: 50%;
+}
+
+.av-list:hover {
+  background-color: #d9d9d9;
+}
+
+.network-list {
+  font-family: 'Darker Grotesque', sans-serif;
+  background-color: #393e46;
+  color: #fd7014;
+  height: 40px;
+  font-size: 75%;
+  text-align: center;
+  line-height: 50%;
+}
+
+.network-list:hover {
+  background-color: #505762;
+  color: #fd7014;
+}
+
+.control-list {
+  font-family: 'Darker Grotesque', sans-serif;
+  background-color: #fd7014;
+  color: black;
+  height: 40px;
+  font-size: 75%;
+  text-align: center;
+  line-height: 50%;
+}
+
+.control-list:hover {
+  background-color: #fd944e;
+  color: black;
+}
+
+.works-cited {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #eeeeee;
+  padding-top: -10px;
+  padding-bottom: -10px;
+  font-size: 10px;
+}
+
+.works-cited-link {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #eeeeee;
+}
+
+.works-cited-link:hover {
+  color: #fd944e;
+}
+
+.av-pg1-header-zone {
+  text-align: center;
+  height: 160px;
+  color: #393e46;
+  background-color: #eeeeee;
+}
+
+.av-pg1-header {
+  font-size: 220%;
+  padding-top: 50px;
+}
+
+.av-pg1-content-header {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #fd7014;
+  text-align: center;
+}
+
+.av-pg1-content-zone {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 60px;
+  height: 51vw;
+  position: relative;
+  font-size: 1.8vw;
+}
+
+.av-pg1-basic-components {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #eeeeee;
+}
+
+.av-pg1-links-header {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #fd7014;
+  text-align: center;
+}
+
+.av-pg1-links {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #eeeeee;
+  text-align: center;
+}
+
+.av-pg1-links:hover {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #fd7014;
+}
+
+.av-pg1-bottom-zone {
+  padding-top: 1.5%;
+  background-color: #393e46;
+  height: 25vh;
+}
+
+.pagination>li>a {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 20px;
+  background-color: #222831;
+  color: #eeeeee;
+  border-color: #fd7014;
+}
+
+.pagination>.active>a {
+  color: #eeeeee;
+  background-color: #fd7014 !Important;
+  border: solid 1px #fd7014 !Important;
+}
+
+.pagination>.disabled>a {
+  color: #666666 !Important;
+  background-color: #222831 !Important;
+  border: solid 1px #fd7014 !Important;
+}
+
+.pagination>li>a:focus,
+.pagination>li>a:hover,
+.pagination>li>span:focus,
+.pagination>li>span:hover {
+  color: #222831;
+  background-color: #fed1b3;
+  border-color: #fd7014;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-nav {
+  padding-top: 30px;
+}
+
+.av-pg2-content-header {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #fd7014;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.av-pg2-content-zone {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 20px;
+  color: #eeeeee;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+.av-pg2-h3 {
+  color: #fd7014;
+}
+
+.av-pg2-bottom-zone {
+  padding-top: 1.5%;
+  background-color: #393e46;
+  height: 25vh;
+}
+
+.speaker-photos-section {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.ic-speaker-photo {
+  height: 100%;
+  width: 92%;
+}
+
+.bookshelf-speaker-photo {
+  height: 100%;
+  width: 94%;
+}
+
+.av-pg3-header {
+  padding-top: 60px;
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #fd7014;
+  text-align: center;
+}
+
+.av-p3-content
+{
+  padding-top: 40px;
+}
+
+.av-pg3-h4 {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #fd7014;
+}
+
+.av-pg3-p {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #eeeeee;
+}
+
+#top-zone {
+  background-image: url(../images/familyRoom.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 400%;
+}
+
+#mid-zone {
+  color: #222831;
+  background-color: #eeeeee;
+  text-align: center;
+  padding-top: 40px;
+  height: 610px;
+}
+
+#low-zone {
+  color: #eeeeee;
+  background-color: #393e46;
+  text-align: center;
+  padding-top: 110px;
+  height: 365px;
+}
+
+#main-header {
+  color: #eeeeee;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+
+#mid-layer {
+  padding-bottom: 50px;
+}
+
+#contact-form {
+  padding-left: 40px;
+}
+
+#get-started-col {
+  text-align: center;
+}
+
+#questions-spacel {
+  border-right: solid;
+  border-width: thin;
+  border-color: #eeeeee;
+}
+
+#contact-spacer {
+  border-left: solid;
+  border-width: thin;
+  border-color: #eeeeee;
+}
